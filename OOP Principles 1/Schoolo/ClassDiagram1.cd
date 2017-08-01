@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Schoolo.School.Class" Collapsed="true">
+    <Position X="1" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAkAAAAAAAAAQAAAAAAAAACAgAAAAI=</HashCode>
+      <FileName>School\Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Schoolo.School.Discipline" Collapsed="true">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAEAIAAAASAAAAEAAAAABAAAAAAAAA=</HashCode>
+      <FileName>School\Discipline.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Schoolo.School.Schule" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAFAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>School\Schule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Schoolo.School.Student" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAEAAAAAAQAAAAEAAAAAAAAAAAABAA=</HashCode>
+      <FileName>School\Student.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Schoolo.School.Teacher" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAEQAAAAEAAAAAAAEAAAABAA=</HashCode>
+      <FileName>School\Teacher.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Schoolo.SchoolMain" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>SchoolMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Schoolo.School.IHuman" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>School\IHuman.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
