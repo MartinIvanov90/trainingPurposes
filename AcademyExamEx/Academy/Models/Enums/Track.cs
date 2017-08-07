@@ -1,13 +1,15 @@
-﻿using BankJob.Interfaces;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BankJob.Abstract
+namespace Academy.Models.Enums
 {
-    public abstract class Account : IAccount
+    public enum Track
     {
+        None,
+        Frontend,
+        Dev
     }
 }
